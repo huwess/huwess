@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Angular**
 
-- 📫 How to reach me **jadgegarcia@gmail.com**
+- 📫 How to reach me **joshuajadgegarcia@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
